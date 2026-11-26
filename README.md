@@ -5,7 +5,7 @@
 **🔭 En ce moment**
 - Je suis en M1 et j'approfondis le **data engineering** : pipelines ETL, SQL, modélisation de données
 - Je cherche un **stage data engineering** (6 à 8 semaines ou été), puis une **alternance** à partir de septembre 2027
-- Mon projet phare : [**MEDISCAN AI**](https://github.com/MediscanAI-cbir/mediscan-cbir), un moteur de recherche d'images médicales par IA (60 000 radios, FAISS)
+- Mon projet phare : [**MEDISCAN AI**](https://github.com/MediscanAI-cbir/mediscan-cbir), un moteur de recherche multimodale d’images radiologiques.
 
 **🛠️ Mes outils**
 
